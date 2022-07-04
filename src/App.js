@@ -64,7 +64,7 @@ function FuncComp(props) {
   );
 }
 
-let classStyle = "color:red";
+// let classStyle = "color:red";
 
 // life cycle
 // 1.constructor -> 2.componentWillMount -> 3.render -> componentDidMount
